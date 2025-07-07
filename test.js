@@ -9,4 +9,4 @@ accountCity = "Goa"
 
 console.log(accountId);
 
-console.log([accountId, accountEmail, accountPassword, accountCity])
+console.table([accountId, accountEmail, accountPassword, accountCity])

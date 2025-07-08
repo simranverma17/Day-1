@@ -1,4 +1,9 @@
-# JavaScript Daily Practice
+# JavaScript: Day-1
 
-Welcome to my JavaScript Daily Practice repository!  
-This project contains my daily learning and practice code, including concepts like variables, loops, conditional statements, functions, arrays, and more.
+This project contains simple JavaScript programs that help beginners understand the basics of:
+
+- Variables
+- Loops (`for`, `while`)
+- Conditional Statements (`if`, `else`, `switch`)
+
+Each script is designed to be easy to read, understand, and run in a browser console or a Node.js environment.
